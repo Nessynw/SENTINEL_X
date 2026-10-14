@@ -159,7 +159,6 @@ Le script crée un fichier `.env` contenant :
 - le secret utilisé pour signer les sessions ;
 - une clé API pour le bridge MQTT ;
 - une clé API distincte pour la caméra.
-- 
 ## 7. Lancement
 
 Exécuter les commandes suivantes depuis la racine du projet.
