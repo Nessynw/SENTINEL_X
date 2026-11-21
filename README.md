@@ -1,4 +1,4 @@
-# Sentinel-X — Workshop 2026 - M1 DATA & IA
+# Sentinel-X — Intelligent IoT Monitoring System
 
 Projet de supervision d’un parc informatique réalisé pour AetherCorp dans le cadre du Workshop BAC+4.
 
@@ -108,8 +108,8 @@ Sentinel-X/
 Cloner le dépôt :
 
 ```powershell
-git clone https://github.com/Nessynw/Workshop2026-M1-G.git
-cd Workshop2026-M1-G
+git clone https://github.com/Nessynw/SENTINEL_X.git
+cd SENTINEL_X
 ```
 
 Créer l’environnement Python et installer les dépendances :
